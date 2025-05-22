@@ -70,30 +70,6 @@ terraform-iam-management/
 
 
 
-Initialize Terraform:
-
-bash
-Copy
-Edit
-terraform init
-Preview the changes:
-
-bash
-Copy
-Edit
-terraform plan
-Apply the changes:
-
-bash
-Copy
-Edit
-terraform apply
-Destroy resources (optional):
-
-bash
-Copy
-Edit
-terraform destroy
 
 
 🔐 Security Considerations
