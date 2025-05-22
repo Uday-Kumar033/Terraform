@@ -70,3 +70,47 @@ terraform-iam-management/
 
 
 
+Initialize Terraform:
+
+bash
+Copy
+Edit
+terraform init
+Preview the changes:
+
+bash
+Copy
+Edit
+terraform plan
+Apply the changes:
+
+bash
+Copy
+Edit
+terraform apply
+Destroy resources (optional):
+
+bash
+Copy
+Edit
+terraform destroy
+
+
+🔐 Security Considerations
+Follow the principle of least privilege
+
+Regularly rotate IAM credentials
+
+Enable MFA for all users
+
+Monitor activity using AWS CloudTrail
+
+📸 Screenshots (Optional)
+Add screenshots or architecture diagrams here if available.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or pull request if you'd like to help improve this project.
+
